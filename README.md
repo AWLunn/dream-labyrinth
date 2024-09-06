@@ -6,4 +6,4 @@ Progress through different levels in a student's dream by defeating various enem
 
 Built in JavaFX
 
-Contributors: Alec Lunn, Brandon Arenas, Jasmine Roebuck, Quinton Masters
+Authors: Alec Lunn, Brandon Arenas, Jasmine Roebuck, Quinton Masters
